@@ -1,0 +1,2 @@
+https://github.com/AnaniIzzatoul/mbs_coast/blob/61fb820cce09a7fb9aebead09ccd0b9cc62859c2/amount.list.js
+https://cdn.jsdelivr.net/gh/AnaniIzzatoul/mbs_coast/amount.list.js
