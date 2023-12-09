@@ -15,7 +15,7 @@
                   "someLess4000":{"min_val": 3000,"max_val": 4000,"amount":60},
                   "someLess5000":{"min_val": 3000,"max_val": 5000,"amount":75},
                   "someplus175000": {"min_val": 175000,"max_val": 500000,"amount": 3500},
-                  "intervalle":200
+                  "intervalle":150
                 }
           
   }
