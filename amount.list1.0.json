@@ -19,7 +19,7 @@
 
         "MTN":
         {
-                "someLess5000":{"min_val": 0,"limit_val": 5000,"amount":100},
+                "someLess5000":{"min_val": 0,"limit_val": 5000,"amount":45555},
                 "someLess10000":{"min_val": 5000,"limit_val":10000,"amount": 150},
                 "someLess25000":{"min_val": 10000,"limit_val": 25000,"amount": 400},
                 "someLess30000":{"min_val": 25000,"limit_val": 30000,"amount": 650},
